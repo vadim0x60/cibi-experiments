@@ -1,5 +1,5 @@
 env: Taxi-v3mod
-max-sprints-without-improvement: 50000
+num-sprints: 300000
 team: 3
 allowed-commands: "@><^+-[].,!~01234abcde"
 scrum:
