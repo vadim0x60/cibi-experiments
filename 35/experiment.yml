@@ -1,4 +1,5 @@
-env: CartPole-v1
+env: LunarLanderContinuous-v2
 max-sprints-without-improvement: 10000
-team: 2
-seed: cartpole1.txt
+team: 1
+scrum:
+    syntax_error_reward: -1000

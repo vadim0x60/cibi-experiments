@@ -1,4 +1,6 @@
-env: CartPole-v1
-max-sprints-without-improvement: 30000
-team: 3
-allowed-commands: "@><^+-[].,!~01234abcde"
+env: Taxi-v3mod
+num-sprints: 100000
+team: 2
+seed: taxi3.txt
+scrum:
+    syntax_error_reward: -200

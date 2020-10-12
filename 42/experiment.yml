@@ -1,6 +1,0 @@
-env: Taxi-v3mod
-num-sprints: 300000
-team: 3
-allowed-commands: "@><^+-[].,!~01234abcde"
-scrum:
-    syntax_error_reward: -200
