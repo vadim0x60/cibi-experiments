@@ -1,7 +1,7 @@
+allowed-commands: '@><^+-[].,!~01234abcde'
+cibi-version: 3
 env: MountainCarContinuous-v0
 max-sprints-without-improvement: 10000
-team: 1
-allowed-commands: "@><^+-[].,!~01234abcde"
 seed: mcc0.txt
-scrum:
-    syntax_error_reward: -200
+syntax-error-reward: -200
+team: 1

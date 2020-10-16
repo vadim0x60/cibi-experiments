@@ -1,6 +1,6 @@
+allowed-commands: '@><^+-[].,!~'
+cibi-version: 3
 env: MountainCarContinuous-v0
 max-sprints-without-improvement: 10000
+syntax-error-reward: -200
 team: 0
-allowed-commands: "@><^+-[].,!~"
-scrum:
-    syntax_error_reward: -200

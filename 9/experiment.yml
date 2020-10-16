@@ -1,6 +1,6 @@
+allowed-commands: '><+-[].,!01234abcde'
+cibi-version: 3
 env: Taxi-v3mod
 num-sprints: 100000
+syntax-error-reward: -200
 team: 0
-allowed-commands: "><+-[].,!01234abcde"
-scrum:
-    syntax_error_reward: -200

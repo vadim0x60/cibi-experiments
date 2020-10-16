@@ -1,5 +1,5 @@
+cibi-version: 3
 env: LunarLanderContinuous-v2
 max-sprints-without-improvement: 10000
+syntax-error-reward: -1000
 team: 1
-scrum:
-    syntax_error_reward: -1000

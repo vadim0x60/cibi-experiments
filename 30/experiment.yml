@@ -1,6 +1,6 @@
+allowed-commands: '@><^+-[].,!~'
+cibi-version: 3
 env: BipedalWalker-v3
 max-sprints-without-improvement: 10000
+syntax-error-reward: -500
 team: 1
-allowed-commands: "@><^+-[].,!~"
-scrum:
-    syntax_error_reward: -500
