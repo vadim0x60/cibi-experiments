@@ -1,6 +1,6 @@
 allowed-commands: '@><^+-[].,!~01234abcde'
 cibi-version: 3
 env: BipedalWalker-v3
-max-sprints-without-improvement: 10000
+max-sprints-without-improvement: 30000
 syntax-error-reward: -500
 team: 1
