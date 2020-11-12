@@ -1,7 +1,7 @@
 allowed-commands: '@><^+-[].,!~01234abcde'
 cibi-version: 3
 env: Taxi-v3mod
-num-sprints: 100000
+max-sprints: 100000
 seed: taxi3.txt
 syntax-error-reward: -200
 team: 1
