@@ -1,7 +1,4 @@
-allowed-commands: '@><^+-[].,!~01234abcde'
 cibi-version: 3
-env: Taxi-v3mod
-max-sprints: 100000
-seed: taxi3.txt
-syntax-error-reward: -200
-team: 1
+env: CartPole-v1
+max-sprints-without-improvement: 30000
+team: 3

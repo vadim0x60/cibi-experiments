@@ -2,4 +2,4 @@ cibi-version: 3
 env: BipedalWalker-v3
 max-sprints-without-improvement: 30000
 syntax-error-reward: -500
-team: 1
+team: 4

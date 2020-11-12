@@ -2,4 +2,4 @@ cibi-version: 3
 env: MountainCarContinuous-v0
 max-sprints-without-improvement: 30000
 syntax-error-reward: -200
-team: 1
+team: 5

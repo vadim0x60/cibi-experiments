@@ -2,4 +2,4 @@ cibi-version: 3
 env: Taxi-v3mod
 max-sprints: 100000
 syntax-error-reward: -200
-team: 3
+team: 4

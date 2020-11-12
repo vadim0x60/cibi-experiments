@@ -1,6 +1,5 @@
-allowed-commands: '><+-[].,!01234abcde'
 cibi-version: 3
-env: BipedalWalker-v3
+env: MountainCarContinuous-v0
 max-sprints-without-improvement: 30000
-syntax-error-reward: -500
-team: 1
+syntax-error-reward: -200
+team: 3

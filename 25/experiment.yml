@@ -1,7 +1,5 @@
-allowed-commands: '@><^+-[].,!~01234abcde'
 cibi-version: 3
-env: MountainCarContinuous-v0
+env: LunarLanderContinuous-v2
 max-sprints-without-improvement: 30000
-seed: mcc0.txt
-syntax-error-reward: -200
+syntax-error-reward: -1000
 team: 1

@@ -1,6 +1,6 @@
-allowed-commands: '@><^+-[].,!~01234abcde'
 cibi-version: 3
-env: CartPole-v1
+env: MountainCarContinuous-v0
 max-sprints-without-improvement: 30000
-seed: cartpole1.txt
+seed: mcc0.txt
+syntax-error-reward: -200
 team: 1
