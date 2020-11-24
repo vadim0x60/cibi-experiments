@@ -9,6 +9,6 @@ for subdir in path.listdir(experiments_dir):
     if path.isdir(subdir):
         rmtree(subdir)
 
-resp = urlopen('https://surfdrive.surf.nl/files/index.php/s/QYQTxW0bScR4XnX/download')
+resp = urlopen('https://surfdrive.surf.nl/files/index.php/s/Dzhu0tMETlKHPom/download')
 ZipFile(BytesIO(resp.read())).extractall(experiments_dir)
 
