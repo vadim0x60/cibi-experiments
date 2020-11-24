@@ -4,7 +4,7 @@ from shutil import rmtree
 from io import BytesIO
 import os
 
-experiments_dir = os.path.expandpath(os.path.dirname(__file__))
+experiments_dir = os.path.abspath(os.path.dirname(__file__))
 for subdir in os.listdir(experiments_dir):
     if os.path.isdir(subdir):
         rmtree(subdir)
