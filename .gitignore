@@ -2,5 +2,7 @@ events
 train
 *.log
 *.pickle
+status.tex
 *.ipynb
 summary.yml
+download_cluster.sh
