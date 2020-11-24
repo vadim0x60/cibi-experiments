@@ -1,4 +1,5 @@
 cibi-version: 3
-env: CartPole-v1
+env: MountainCarContinuous-v0
 max-sprints-without-improvement: 30000
-team: 4
+syntax-error-reward: -200
+team: 5

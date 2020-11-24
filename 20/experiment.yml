@@ -1,5 +1,6 @@
 cibi-version: 3
-env: MountainCarContinuous-v0
-max-sprints-without-improvement: 30000
+env: Taxi-v3mod
+max-sprints: 100000
+seed: taxi3.txt
 syntax-error-reward: -200
 team: 1

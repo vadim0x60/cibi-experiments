@@ -1,5 +1,5 @@
 cibi-version: 3
-env: Taxi-v3mod
-max-sprints: 100000
-syntax-error-reward: -200
-team: 4
+env: BipedalWalker-v3
+max-sprints-without-improvement: 30000
+syntax-error-reward: -500
+team: 5
