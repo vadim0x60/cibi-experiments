@@ -1,4 +1,4 @@
-cibi-version: 3
+cibi-version: 4
 env: Taxi-v3mod
 max-sprints: 100000
 seed: taxi3.txt

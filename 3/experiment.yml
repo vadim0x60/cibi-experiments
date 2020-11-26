@@ -1,5 +1,5 @@
 allowed-commands: '@><^+-[].,!~01234abcde'
-cibi-version: 3
+cibi-version: 4
 env: CartPole-v1
 max-sprints-without-improvement: 30000
 seed: cartpole1.txt
