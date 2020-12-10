@@ -1,5 +1,5 @@
 cibi-version: 4
 env: CartPole-v1
-max-sprints-without-improvement: 30000
+max-sprints-without-improvement: 10000
 seed: cartpole1.txt
 team: 5
