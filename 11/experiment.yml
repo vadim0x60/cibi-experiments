@@ -1,5 +1,5 @@
 allowed-commands: '@><^+-[].,!~01234abcde'
-cibi-version: 4
+cibi-version: 5
 env: Taxi-v3mod
 max-sprints: 100000
 seed: taxi3.txt

@@ -1,4 +1,4 @@
-cibi-version: 4
+cibi-version: 5
 env: MountainCarContinuous-v0
 max-sprints-without-improvement: 10000
 team: 3

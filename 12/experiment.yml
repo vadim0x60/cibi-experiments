@@ -1,5 +1,5 @@
 allowed-commands: '@><^+-[].,!~'
-cibi-version: 4
+cibi-version: 5
 env: BipedalWalker-v3
 max-sprints-without-improvement: 10000
 team: 0
