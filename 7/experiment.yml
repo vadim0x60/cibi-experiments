@@ -3,5 +3,4 @@ cibi-version: 4
 env: MountainCarContinuous-v0
 max-sprints-without-improvement: 10000
 seed: mcc0.txt
-syntax-error-reward: -200
 team: 0
